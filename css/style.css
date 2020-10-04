@@ -205,7 +205,7 @@ html, body{
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url('../img/bg-happy.jpg');
+    background-image: url('../img/bg-home.jpg');
     border-top: solid 700px transparent;
     border-left: solid 200px white;
 }
