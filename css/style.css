@@ -50,6 +50,18 @@ html, body{
     background: #fff;
     color: #41464B;
 }
+
+.btn-black{
+    color: black;
+    border-color: black;
+}
+
+.btn-black:hover,
+.btn-black:focus{
+    background: black;
+    color: white;
+}
+
 .btn-blue{
     color: #34C6D3;
     border-color: #34C6D3;
