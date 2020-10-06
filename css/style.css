@@ -217,7 +217,7 @@ html, body{
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url('../img/continentsLow.svg');
+    /* background-image: url('../img/continentsLow.svg'); */
     background-color: black;
     border-top: solid 700px transparent;
     border-left: solid 200px white;
