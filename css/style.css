@@ -205,7 +205,8 @@ html, body{
     width: 60%;
     height: 700px;
     float: right;
-    background-image: url('../img/bg-home.jpg');
+    background-image: url('../img/continentsLow.svg');
+    background-color: black;
     border-top: solid 700px transparent;
     border-left: solid 200px white;
 }
@@ -229,13 +230,13 @@ html, body{
     transition: transform .5s ease, -webkit-transform .5s ease;
 }
 
-.img-wrapper img:hover{
+/* .img-wrapper img:hover{
     -webkit-transform: scale(1.5);
         -ms-transform: scale(1.5);
             transform: scale(1.5);
     cursor: -webkit-zoom-in;
-    /* cursor: zoom-in; */
-}
+    cursor: zoom-in;
+} */
 /************************************************************************************************************************
                                             TEAM SECTION CSS
 ************************************************************************************************************************/
