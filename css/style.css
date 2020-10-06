@@ -88,7 +88,7 @@ html, body{
     height: 100%;
 }
 .home-cover{
-    background-image: url('../img/bg-home.jpg');
+    /* background-image: url('../img/bg-home.jpg'); */
     
     height: 100%;
     
@@ -104,7 +104,7 @@ html, body{
     text-align: center;
 }
 .home-section .text-heading{
-    color: #fff;
+    color: black;
     font-size: 55px;
     font-weight: bold;
     margin: 20px 0;
@@ -518,7 +518,7 @@ phone-fax-email strong{
 }
 .navbar-inverse{
     border: none;
-    background-color: transparent;
+    /* background-color: transparent; */
 }
 .wg-top-navbar{
     background: rgba(0,0,0,0.7);
