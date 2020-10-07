@@ -533,8 +533,8 @@ phone-fax-email strong{
     /* background-color: transparent; */
 }
 .wg-top-navbar{
-    background: rgba(0,0,0,0.7);
-    padding: 25px 0;
+    background: rgba(0,0,0,0.1);
+    /* padding: 25px 0; */
 }
 .wg-nav-wrapper{
     padding: 0 8px;
