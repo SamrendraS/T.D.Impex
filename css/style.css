@@ -530,11 +530,9 @@ phone-fax-email strong{
 }
 .navbar-inverse{
     border: none;
-    /* background-color: transparent; */
 }
 .wg-top-navbar{
-    background: rgba(0,0,0,0.1);
-    /* padding: 25px 0; */
+    background-color: transparent;
 }
 .wg-nav-wrapper{
     padding: 0 8px;
@@ -542,8 +540,13 @@ phone-fax-email strong{
 .navbar-nav{
     float: right;
 }
+
+.wg-top-navbar .nav-header{
+    background-color: rgba(0,0,0,0.8);
+}
+
 .navbar-inverse .navbar-nav>li>a{
-    color: #fff;
+    color: grey;
     font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -567,5 +570,29 @@ phone-fax-email strong{
     background: none;
 }
 .navbar-brand{
-    color: #fff;
+    font-family: 'Crimson Text', serif;
+    /* color: #DCDCDC; */
+    font-weight: 1000   ;
 }
+
+.wg-top-navbar .nav-header .navbar-brand{
+    color: dimgrey;
+}
+
+.wg-top-navbar .nav-header .navbar-brand:hover{
+    color: black;
+}
+
+.wg-top-navbar .nav-header .navbar-toggle .icon-bar{
+    background-color: black;
+    border: none;
+}
+
+.wg-top-navbar .nav-header .navbar-toggle:hover{
+    background-color: white;
+}
+
+.wg-top-navbar .nav-header .navbar-toggle:active {
+    background-color: white;
+}
+
