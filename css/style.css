@@ -63,12 +63,12 @@ html, body{
 }
 
 .btn-blue{
-    color: #34C6D3;
-    border-color: #34C6D3;
+    color: #31369c;
+    border-color: #31369c;
 }
 .btn-blue:hover,
 .btn-blue:focus{
-    background: #34C6D3;
+    background: #31369c;
     color: #fff;
 }
 .bottom-margin{
@@ -154,7 +154,7 @@ html, body{
 .content-title-underline{
     width: 30px;
     height: 3px;
-    background: #34C6D3;
+    background: #31369c;
     margin: 0 auto 30px;
 }
 /************************************************************************************************************************
@@ -168,7 +168,7 @@ html, body{
 }
 
 .service-item-icon .fa{
-    color: #34C6D3;
+    color: #31369c;
     float: left;
     padding: 15px;
     margin-right: 25px;
@@ -181,7 +181,7 @@ html, body{
 
 .service-item:hover .service-item-icon .fa{
     color: #fff;
-    background: #34C6D3;
+    background: #31369c;
 }
 
 .service-item-title .text-heading{
@@ -302,11 +302,11 @@ phone-fax-email strong{
 }
 .navbar-inverse .navbar-nav>li>a:focus,
 .navbar-inverse .navbar-nav>li>a:hover{
-     color: #34C6D3;
+     color: #31369c;
 }
 .navbar-inverse .navbar-nav>li.active>a:hover,
 .navbar-inverse .navbar-nav>li.active>a:focus{
-    color: #34C6D3;
+    color: #31369c;
     background: none;
 }
 .navbar-collapse{
@@ -314,7 +314,7 @@ phone-fax-email strong{
 }
 
 .navbar-inverse .navbar-nav>li.active a{
-    color: #34C6D3;
+    color: #31369c;
     background: none;
 }
 .navbar-brand{
