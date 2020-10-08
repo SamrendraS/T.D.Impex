@@ -213,15 +213,6 @@ html, body{
 .about-btn{
     text-align: center;
 }
-.about-bg-diagonal{
-    width: 60%;
-    height: 700px;
-    float: right;
-    /* background-image: url('../img/continentsLow.svg'); */
-    background-color: black;
-    border-top: solid 700px transparent;
-    border-left: solid 200px white;
-}
 /************************************************************************************************************************
                                             WORK SECTION CSS
 ************************************************************************************************************************/
@@ -242,130 +233,6 @@ html, body{
     transition: transform .5s ease, -webkit-transform .5s ease;
 }
 
-/* .img-wrapper img:hover{
-    -webkit-transform: scale(1.5);
-        -ms-transform: scale(1.5);
-            transform: scale(1.5);
-    cursor: -webkit-zoom-in;
-    cursor: zoom-in;
-} */
-/************************************************************************************************************************
-                                            TEAM SECTION CSS
-************************************************************************************************************************/
-.owl-dot:focus{
-    outline: none;
-}
-.team-member{
-    margin: 0 15px;
-}
-.team-member-info{
-    padding: 10px 0 30px 0;
-}
-h4.team-member-name{
-    font-size: 22px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding-top: 2px;
-}
-h4.team-member-designation{
-    color: #34C6D3;
-    font-size: 15px;
-    font-style: italic;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-top: 5px;
-        
-}
-/************************************************************************************************************************
-                                            SOCIAL SECTION CSS
-************************************************************************************************************************/
-.social-list{
-    padding-left: 0;
-}
-.social-list li{
-    list-style: none;
-    display: inline-block;
-    width: 32px;
-    height: 32px;
-    margin-right: 6px;
-    margin-top: 10px;
-}
-.social-icon i{
-    font-size: 17px;
-}
-
-.icon-gray{
-    color: #64707b;
-}
-.icon-white{
-    color: #fff;
-}
-.icon-facebook:hover{
-    color: #3C589E;
-}
-.icon-twitter:hover{
-    color: #5EAADE;
-}
-.icon-google-plus:hover{
-    color: #B93425;
-}
-.icon-youtube:hover{
-    color: #EE1C1B;
-}
-/*===========================================================================================================
-                                    testimonial css
-===========================================================================================================*/
-.testimonial-cover{
-    background-image: url('../img/bg-testimonials.jpg');
-}
-.customers-testimonials{
-    padding: 50px 0;
-}
-.testimonial{
-    margin-bottom: 30px;
-}
-.testimonial img{
-    max-width: 120px;
-    margin: 0 auto;
-}
-.testimonial blockquote{
-    border: 0;
-    color: #fff;
-    text-align: center;
-    padding: 6px 150px;
-    font-family: Georgia, Times , serif;
-    font-style: italic;
-    position: relative;
-}
-.testimonial blockquote:before,
-.testimonial blockquote:after{
-    font-size: 80px;
-    position: absolute;
-    font-style: normal;
-    line-height: 1;
-    width: 30px;
-    height: 30px;
-}
-.testimonial blockquote:before{
-    content: "\201C";
-    top: 0;
-    left: 100;
-}
-.testimonial blockquote:after{
-    content: "\201D";
-    bottom: 0;
-    right: 100;
-}
-.testimonial-author{
-        text-align: center;
-}
-.testimonial-author p{
-    color: #fff;
-    font-size: 16px;
-}
-.testimonial-author p strong{
-    display: block;
-}
 /************************************************************************************************************************
                                             PRICING SECTION CSS
 ************************************************************************************************************************/
@@ -374,45 +241,6 @@ h4.team-member-designation{
     /* background-color: lightgray; */
 }
 
-
-/************************************************************************************************************************
-                                            STATS CSS
-************************************************************************************************************************/
-
-.stats-cover{
-    background-image: url("../img/bg-stats.jpg");
-}
-.stats-cover .content-box{
-    background-color: rgba(0,0,0,0.8);
-}
-.stats-item{
-    padding: 100px 0;
-    text-align: center;
-}
-.stats-item i{
-    color: #34C6D3;
-}
-.stats-item h2{
-    color: #fff;
-    font-size: 35px;
-    font-weight: 700;
-    margin-top: 15px;
-    margin-bottom: 1px;
-}
-.stats-item p{
-    color: #fff;
-    text-transform: uppercase;
-    margin-top: 1px;
-    font-weight: 300;
-    font-size: 16px;
-}
-/************************************************************************************************************************
-                                            CLIENTS CSS
-************************************************************************************************************************/
-
-.client{
-    padding: 40px 0;
-}
 /************************************************************************************************************************
                                             CONTACT SECTION CSS
 ************************************************************************************************************************/
@@ -451,27 +279,6 @@ phone-fax-email strong{
     letter-spacing: 1px;
 }
 
-.form-control{
-    background-color: transparent;
-    border-radius: 0;
-    color: #fff;
-    font-size: 16px;
-    font-weight: 300;
-    border-color: #fff;
-    margin-bottom: 20px;
-    padding: 8px 15px;
-}
-#copyright{
-    height: 100px;
-    width: 100%;
-    background-color: black;
-    padding: 40px;
-    
-}
-#copyright p{
-    color: #fff;
-    word-spacing: 5;
-}
 /************************************************************************************************************************
                                             NAVIGATION CSS
 ************************************************************************************************************************/
