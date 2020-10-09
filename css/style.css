@@ -158,47 +158,8 @@ html, body{
     margin: 0 auto 30px;
 }
 /************************************************************************************************************************
-                                            SERVICE SECTION CSS
-************************************************************************************************************************/
-
-.service-item{
-    padding: 20px 0;
-    margin: 0 0 20px;
-    cursor: pointer;
-}
-
-.service-item-icon .fa{
-    color: #31369c;
-    float: left;
-    padding: 15px;
-    margin-right: 25px;
-    width: 75px;
-    height: 75px;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-    text-align: center;
-}
-
-.service-item:hover .service-item-icon .fa{
-    color: #fff;
-    background: #31369c;
-}
-
-.service-item-title .text-heading{
-    font-size: 20px;
-    font-weight: 400;
-    margin: 0 0 10px;
-}
-
-.service-item desc p{
-    margin: 0;
-    padding-left: 100px;
-}
-/************************************************************************************************************************
                                             ABOUT SECTION CSS
 ************************************************************************************************************************/
-.content-box .container-fluid{
-}
 
 /************************************************************************************************************************
                                             WORK SECTION CSS
